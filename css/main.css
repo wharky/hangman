@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+html {
+    width: 100%;
+    height: 100%;
+    background-color:#e6e6e6;
+}
+
+#graphic-section {
+    position:absolute;
+    width: 100%;
+    height: 300px;
+    background-color: bisque;
+}
+
+#question-section {
+    position: absolute;
+    top: 300px;
+    width: 100%;
+    height: 300px;
+    background-color: aquamarine;
+    margin: auto;
+}
+
+#question {
+    position: relative;
+    left: 50%;
+    top: 50%;
+    font-size: 30pt;
+}
+
+#text-section {
+    position: absolute;
+    top: 600px;
+    width: 100%;
+    height: 300px;
+    background-color:chartreuse;
+}
+
+#text{
+    position: relative;
+    top: 50%;
+    left: 50%;
+}
