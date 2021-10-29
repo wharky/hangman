@@ -41,8 +41,12 @@ html {
     background-color:chartreuse;
 }
 
-#text{
+#alphabets {
     position: relative;
-    top: 50%;
-    left: 50%;
+    top: 100px;
+}
+
+.disabled {
+    opacity: 30%;
+    color: red;
 }
